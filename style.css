@@ -133,20 +133,13 @@ body.dark-mode p {
 @media (max-width: 600px) {
     .decoration {
         width: 65px;
-         z-index: 0;
     }
 
     #title,
     #message,
+    #start-button,
     #answers {
         position: relative;
         z-index: 10;
     }
-}
-#title,
-#message,
-#start-button,
-#answers {
-    position: relative;
-    z-index: 10;
 }
