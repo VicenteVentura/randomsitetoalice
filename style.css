@@ -1,0 +1,123 @@
+
+body {
+    background-color: #100b1d;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    color: #c9a0ff;
+    font-size: 40px;
+}
+
+p {
+    color: #c4b8d8;
+    font-size: 18px;
+}
+
+button {
+    background-color: #8b5cf6;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+h1 {
+    color: #c9a0ff;
+    font-size: 44px;
+}
+
+button {
+    border-radius: 15px;
+}
+
+#answers {
+    display: none;
+    margin-top: 20px;
+    gap: 12px;
+    justify-content: center;
+}
+
+#answers button {
+    background-color: #a78bfa;
+}
+
+body {
+    transition: background-color 1s ease;
+}
+
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+body {
+    transition: background-color 1s ease;
+}
+
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+body.dark-mode h1,
+body.dark-mode p {
+    color: white;
+}
+#kaboom {
+    position: fixed;
+    width: 150px;
+    border-radius: 15px;
+    margin: 20px;
+    top : 12%;
+    left: 10%;
+}
+
+#cattoung {
+    position: fixed;
+    width: 150px;
+    border-radius: 15px;
+    margin: 20px;
+    top : 70%;
+    left: 15%;
+}
+
+#flower {
+    position: fixed;
+    width: 150px;
+    border-radius: 15px;
+    margin: 20px;
+    top : 70%;
+    left: 60%;
+}
+#ioioio {
+    position: fixed;
+    width: 150px;
+    height: auto;
+    margin: 0;
+    top: 30%;
+    right: 20%;
+    transform: none;
+}
+#lethimcook {
+    position: fixed;
+    width: 150px;
+    height: auto;
+    margin: 0;
+    top: 5%;
+    right: 10%;
+    transform: none;
+}
+
+#bananacat {
+    position: fixed;
+    width: 150px;
+    height: auto;
+    margin: 0;
+    top: 50%;
+    left: 20%;
+    transform: none;
+}
