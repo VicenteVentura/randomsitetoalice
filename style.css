@@ -67,67 +67,7 @@ body.dark-mode h1,
 body.dark-mode p {
     color: white;
 }
-.decoration {
-    position: fixed;
-    width: 150px;
-    height: auto;
-    z-index: 0;
-    pointer-events: none;
-}
-#kaboom {
-    position: fixed;
-    width: 150px;
-    border-radius: 15px;
-    margin: 20px;
-    top : 12%;
-    left: 10%;
-}
 
-#cattoung {
-    position: fixed;
-    width: 150px;
-    border-radius: 15px;
-    margin: 20px;
-    top : 70%;
-    left: 15%;
-}
-
-#flower {
-    position: fixed;
-    width: 150px;
-    border-radius: 15px;
-    margin: 20px;
-    top : 70%;
-    left: 60%;
-}
-#ioioio {
-    position: fixed;
-    width: 150px;
-    height: auto;
-    margin: 0;
-    top: 30%;
-    right: 20%;
-    transform: none;
-}
-#lethimcook {
-    position: fixed;
-    width: 150px;
-    height: auto;
-    margin: 0;
-    top: 5%;
-    right: 10%;
-    transform: none;
-}
-
-#bananacat {
-    position: fixed;
-    width: 150px;
-    height: auto;
-    margin: 0;
-    top: 50%;
-    left: 20%;
-    transform: none;
-}
 
 
 @media (max-width: 600px) {
